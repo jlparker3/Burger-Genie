@@ -22,6 +22,8 @@ For the button icons, I used the fontawesome library
 
 For the font, I used google fonts
 
+For color matching, I used the materal.io color tool
+
 ## Dependencies Used
 <ul>Express</ul>
 <ul>Express- Handlebars</ul>
