@@ -18,6 +18,10 @@ After understanding the file structure, I enjoyed my time watching the applicati
 For the animation by Oleg Lyakhov
 https://dribbble.com/shots/6076536-Burger
 
+For the button icons, I used the fontawesome library
+
+For the font, I used google fonts
+
 ## Dependencies Used
 <ul>Express</ul>
 <ul>Express- Handlebars</ul>
